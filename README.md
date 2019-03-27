@@ -1,8 +1,4 @@
 # Object-Detection
-#Lane Detector Tutorial
 
-Lane detection using Canny Detector and Hough Transform
+①lane_detector
 
-# Usage:
-
-python lane_detector.py
